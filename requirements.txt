@@ -2,7 +2,7 @@
 Flask==1.1.2
 gunicorn==20.1.0
 numpy==1.19.5
-torch==1.8.0+cpu
+torch==1.8.2+cpu
 Pillow==7.2.0
 opencv-python>=3.4.15.55
 
