@@ -37,6 +37,3 @@ def out():
     # print(type(img_base64))
     
     return render_template('out.html', img_data=img_base64.decode('utf-8'))
-
-if __name__ == '__main__':
-    app.run(debug=True)
